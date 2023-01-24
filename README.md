@@ -6,7 +6,7 @@ This is a web based application developed for health related based website in in
 
 
 **Project Link** -https://gray-sea-03f9c2400.2.azurestaticapps.net/
-**project demo video link** - 
+**project demo video link** - https://youtube.com/watch?v=hpguz5Wz8IY&si=EnSIkaIECMiOmarE
 
 ## Azure technologies used for Project
 
